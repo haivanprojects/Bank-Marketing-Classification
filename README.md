@@ -29,8 +29,8 @@ The Random Forest model achieved the highest accuracy (approx. 90%), demonstrati
 High-potential leads were successfully segmented, allowing for a more targeted telemarketing strategy.
 
 Project Files
-bank_marketing_classification.ipynb: Full Python code for cleaning, analysis, and modeling.
+'bank_marketing_classification.ipynb': Full Python code for cleaning, analysis, and modeling.
 
-Bank_Deposit_Analysis_Report.pdf: Detailed business report and methodology explanation.
+'Bank_Deposit_Analysis_Report.pdf': Detailed business report and methodology explanation.
 
-bank_marketing_dataset.csv: Raw data utilized for the analysis.
+'bank_marketing_dataset.csv': Raw data utilized for the analysis.
